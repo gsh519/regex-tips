@@ -12,7 +12,7 @@ function App() {
                 {/* リスト一覧 */}
                 <div className='flex flex-wrap justify-between'>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>.</h2>
                         </div>
@@ -32,7 +32,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>|</h2>
                         </div>
@@ -52,7 +52,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>*</h2>
                         </div>
@@ -72,7 +72,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>*?</h2>
                         </div>
@@ -92,7 +92,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>+</h2>
                         </div>
@@ -112,7 +112,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>+?</h2>
                         </div>
@@ -131,7 +131,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>?</h2>
                         </div>
@@ -151,7 +151,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>??</h2>
                         </div>
@@ -170,7 +170,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>[ ]</h2>
                         </div>
@@ -190,7 +190,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>[^ ]</h2>
                         </div>
@@ -210,7 +210,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>^</h2>
                         </div>
@@ -230,7 +230,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>$</h2>
                         </div>
@@ -250,7 +250,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>( )</h2>
                         </div>
@@ -270,7 +270,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>\</h2>
                         </div>
@@ -290,7 +290,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>{'{'}n{'}'}</h2>
                         </div>
@@ -310,7 +310,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>{'{'}n,{'}'}</h2>
                         </div>
@@ -330,7 +330,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>{'{'}n, m{'}'}</h2>
                         </div>
@@ -350,7 +350,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>\d</h2>
                         </div>
@@ -370,7 +370,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>\w</h2>
                         </div>
@@ -391,7 +391,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div className='sm:w-49 w-full flex p-4 border-b border-gray-400'>
+                    <div className='sm:w-49 w-full flex py-4 sm:p-4 border-b border-gray-400'>
                         <div className='w-1/4'>
                             <h2 className='text-gray-800 bg-white w-16 h-16 rounded-lg text-2xl flex justify-center items-center font-semibold'>\s</h2>
                         </div>
