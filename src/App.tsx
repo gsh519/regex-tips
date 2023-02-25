@@ -5,7 +5,7 @@ function App() {
         <section className="text-gray-600 body-font">
             <div className="max-w-4xl px-5 sm:py-16 py-10 mx-auto">
                 <div className="w-full pb-4 mb-6 text-left border-b">
-                <h1 className="text-2xl font-semibold title-font mb-2 text-gray-900">正規表現チートシート</h1>
+                <h1 className="text-2xl font-semibold title-font mb-2 text-gray-900">基本的な正規表現チートシート</h1>
                 <h2 className="w-full leading-relaxed text-gray-500">基本的な正規表現をまとめました。思い出すときなどにご活用ください。</h2>
                 </div>
 
